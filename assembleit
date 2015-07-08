@@ -1,0 +1,3 @@
+ca65 --listing kim.lst kim.ca65
+ld65 -o kim.bin -C kim.cfg --mapfile kim.map -vm kim.o
+od -t x1 -v kim.bin > kim.hexdump
