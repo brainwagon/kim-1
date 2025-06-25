@@ -18,3 +18,7 @@ ld65. If you have cc65, you can recompile the source using the
 commands in the file "assembleit".  You can compare the hexdumps
 of the original roms with the output to make sure it's compiled
 the code properly.
+
+I've added no special restrictions to this, feel free to use 
+it for any purpose consistent with any pre-existing licensing
+on a 50ish year old computer.
